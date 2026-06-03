@@ -1,11 +1,5 @@
-# TensorTonic Solutions
+Welcome to my Machine Learning repository!
 
-Welcome to my TensorTonic solutions repository!
+This repository contains my practice implementations of core AI/ML concepts built completely from scratch to better understand the mathematics, gradients, backpropagation, and internal workings behind modern machine learning systems.
 
-Here you'll find my solutions to various machine learning and deep learning problems from [TensorTonic](https://tensortonic.com).
-
-## What is TensorTonic?
-
-TensorTonic is a platform where you can implement core algorithms of Machine Learning from scratch.
-
-This repository contains my personal solutions to these problems, automatically synchronized from the platform.
+The goal of this repository is to gain a deeper understanding of how machine learning models work internally by implementing algorithms manually rather than relying entirely on high-level abstractions and frameworks.
